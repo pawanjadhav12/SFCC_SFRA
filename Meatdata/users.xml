@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="pawan.jadhav@osf.digital" enabled-flag="true">
+        <credentials>
+            <external-id>5a4f65d1-e809-4534-b517-9f5ce83f2ae5</external-id>
+        </credentials>
+        <profile>
+            <first-name>Pawan</first-name>
+            <last-name>Jadhav</last-name>
+            <email>pawan.jadhav@osf.digital</email>
+        </profile>
+    </user>
+
+</users>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custom-objects xmlns="http://www.demandware.com/xml/impex/customobject/2006-10-31">
+    <custom-object type-id="Mail_id" object-id="abc@gmail.com">
+        <object-attribute attribute-id="student">true</object-attribute>
+    </custom-object>
+
+    <custom-object type-id="Mail_id" object-id="pqr@gmail.com">
+        <object-attribute attribute-id="student">true</object-attribute>
+    </custom-object>
+
+</custom-objects>
